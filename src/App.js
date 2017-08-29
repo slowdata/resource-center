@@ -3,7 +3,6 @@ import './App.css'
 import { BrowserRouter as Routes, Route, Switch } from 'react-router-dom'
 import injectTapEventPlugin from 'react-tap-event-plugin'
 import { MuiThemeProvider } from 'material-ui/styles'
-
 import fusTheme from './fusTheme'
 
 import SideNav from './SideNav'
